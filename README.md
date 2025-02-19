@@ -32,10 +32,10 @@ Swagger (API Dokümantasyonu)
 git clone https://github.com/kullanici/e-commerce-api.git
 cd e-commerce-api
 
-2️⃣ Bağımlılıkları Yükleyin
+2️⃣ Bağımlılıkları Yükleyin:
 dotnet restore
 
-3️⃣ Veritabanını Güncelleyin
+3️⃣ Veritabanını Güncelleyin:
 dotnet ef database update
 
 4️⃣ API'yi Çalıştırın
