@@ -1,0 +1,40 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]evelopment/
+[Dd]evelopmentPublic/
+
+# User-specific files
+.vs/
+.vscode/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer
+Thumbs.db
+
+# ASP.NET files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dotnet core files
+bin/
+obj/
+
+# Windows Installer files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# .NET Core build output
+.vscode/
