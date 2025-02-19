@@ -53,7 +53,6 @@ Swagger (API Dokümantasyonu)
 
 git clone https://github.com/kullanici/e-commerce-api.git
 
-cd e-commerce-api
 
 
 2️⃣ Bağımlılıkları Yükleyin:
